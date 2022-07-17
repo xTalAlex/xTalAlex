@@ -1,16 +1,18 @@
-### Hi there 👋
+###
+<div align="center">
+   <h1>Hello. I'm Alessandro, Freelance Web Developer <img src="https://media.giphy.com/media/pPzjpxJXa0pna/giphy.gif" width="80px"> </h1>
+   
+   <a href="https://talale.it" target="_blank">
+      My Homepage
+   </a>
+</div>
 
-<!--
-**xTalAlex/xTalAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Stack
+| Tailwind  | Alpine | Laravel | Livewire |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| <img height="30px" width="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">  | <img width="35px" src="https://cdn.svgporn.com/logos/alpinejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg"> |  <img height="30px" src="https://laravel-livewire.com/img/twitter.png"> |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+| DO | Netlify | VSC | Filament | Astro |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| <img height="30px" src="https://cdn.svgporn.com/logos/digital-ocean.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/netlify.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://filamentphp.com/images/dog.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/astro.svg"> |
