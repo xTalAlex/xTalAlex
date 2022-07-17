@@ -1,6 +1,6 @@
 ###
 <div align="center">
-   <h1>Hello. I'm Alessandro, Freelance Web Developer <img src="https://media.giphy.com/media/pPzjpxJXa0pna/giphy.gif" width="80px"> </h1>
+   <h1>Hello. I'm Alessandro, a Freelance Web Developer <img src="https://media.giphy.com/media/pPzjpxJXa0pna/giphy.gif" width="80px"> </h1>
    
    <a href="https://talale.it" target="_blank">
       My Homepage
