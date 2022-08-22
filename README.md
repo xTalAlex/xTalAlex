@@ -8,9 +8,9 @@
 </div>
 
 #### Stack
-| Tailwind  | Alpine | Laravel | Livewire |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| <img height="30px" width="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">  | <img width="35px" src="https://cdn.svgporn.com/logos/alpinejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg"> |  <img height="30px" src="https://laravel-livewire.com/img/twitter.png"> |
+| Tailwind  | Alpine | Laravel | Livewire | Vue |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| <img height="30px" width="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">  | <img width="35px" src="https://cdn.svgporn.com/logos/alpinejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg"> |  <img height="30px" src="https://laravel-livewire.com/img/twitter.png"> | <img height="30px" src="https://cdn.svgporn.com/logos/vue.svg"> |
 
 #### Tools
 | DO | Netlify | VSC | Filament | Astro |
